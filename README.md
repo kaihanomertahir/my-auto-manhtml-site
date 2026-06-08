@@ -1,2 +1,5 @@
-# my-auto-manhtml-site
-Website published automatically with folder upload, SEO and analytics setup
+# My Professional Website
+
+Published with GitHub Pages Website Manager.
+
+URL: https://kaihanomertahir.github.io/my-auto-manhtml-site/
